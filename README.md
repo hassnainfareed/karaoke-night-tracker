@@ -58,12 +58,6 @@ npm run dev
 - Remove guests from the event
 - Track song choices for each guest
 
-### UI/UX
-- Responsive design that works on all devices
-- Visual status indicators with color coding
-- Smooth hover and click animations
-- Avatar placeholders with guest initials
-
 ## 🤝 Contributing
 
 1. Fork the repository
