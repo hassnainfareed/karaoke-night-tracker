@@ -2,7 +2,6 @@
 
 A modern web application for managing weekly karaoke events and tracking guest RSVPs. Built with React, TypeScript, and Tailwind CSS.
 
-![Karaoke Night Tracker](https://images.unsplash.com/photo-1516280440614-37939bbacd81?auto=format&fit=crop&w=1200&q=80)
 
 ## ✨ Features
 
