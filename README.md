@@ -1,7 +1,6 @@
 # 🎤 Karaoke Night Tracker
 
-A modern web application for managing weekly karaoke events and tracking guest RSVPs. Built with React, TypeScript, and Tailwind CSS.
-
+I made this app for our dorm and house parties. But now I decided to publish it here. Use it and make it your own. Have a fun night :D
 
 ## ✨ Features
 
